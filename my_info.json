@@ -1,0 +1,30 @@
+{
+  "myInfo" : {
+    "name" : "Ivonne Glynn Parungao Lasco",
+    "Age" : "20",
+    "Address" : "69 Building A Kanor St. Brgy. Dimagiba, Limot City",
+    "Birthdate" : "Feb 2, 2002",
+    "Status" : "Married"
+  },
+  "myContacts" : {
+      "celphone_no." : "Cellphone number : 09696969696",
+      "email" : "Email : Mangnorka@gmail.com",
+      "social_media" : "Social media accounts : @norkamang"
+    },
+  "mySkills" : {
+      "skill_1" : "Fast learner",
+      "skill_2" : "Problem solver",
+      "skill_3" : "Creative",
+      "skill_4" : "Collaboration Talent"
+    },
+  "mySchool" : {
+      "Elementary_School" : "Chika Elementary School",
+      "Junior_High_School" : "Jumanji High School",
+      "Senior_High_School" : "Eastern International University",
+      "College" : "Eastern International University"
+    },
+  "myExpandDeg" : {
+    "degree" : "Degree: Bachelor of Science in Computer Engineering",
+    "work" : "Ex-member of Straw Hat corp."
+  }
+}
